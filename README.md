@@ -2,7 +2,8 @@
 
 This project is a full implementation of the **Three-Phase Commit (3PC)** protocol in Go. It handles distributed transactions with fault tolerance, log-based recovery, and concurrent coordination.
 
-![Three-Phase Commit Diagram](./3pc-diagram.jpeg)
+![Three-Phase Commit Diagram](./uuid=46E3C2F4-1475-4896-BF9A-77A4D9F1FEA6&code=001&library=1&type=1&mode=1&loc=true&cap=true.jpeg
+)
 
 ---
 
